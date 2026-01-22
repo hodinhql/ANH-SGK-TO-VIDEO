@@ -1,0 +1,5 @@
+{
+  "name": "AI Bulk Image Studio",
+  "description": "A high-performance bulk image generation tool powered by Gemini, supporting multiple aspect ratios and batch downloads.",
+  "requestFramePermissions": []
+}
